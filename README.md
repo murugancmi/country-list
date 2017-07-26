@@ -1,6 +1,6 @@
 ### Service Providing countries
 
-US- United state CC
+USA- United state CC
 
 UST - USToll free CC
 
